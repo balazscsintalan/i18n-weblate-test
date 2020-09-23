@@ -17,7 +17,15 @@ i18n
   .init({
     fallbackLng: 'en',
     debug: true,
-
+    // backend: {
+    //   // for all available options read the backend's repository readme file
+    //   // loadPath: 'http://localhost/api/translations/teszt-project/teszt/{{lng}}/file/?format=json',
+    //   loadPath: 'http://localhost/api/translations/teszt-project/teszt/{{lng}}/file/?format=json',
+    //   requestOptions: {
+    //     mode: 'no-cors'
+    //   }
+    //   // loadPath: '/locales/{{lng}}/{{ns}}.json'
+    // },
     interpolation: {
       escapeValue: false, // not needed for react as it escapes by default
     },

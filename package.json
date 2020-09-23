@@ -15,7 +15,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "translations-scan": "i18next-scanner --config i18next-scanner.config.engine.js \"src/**/*.{ts,tsx,js}"
   },
   "browserslist": {
     "development": [
@@ -29,5 +30,8 @@
       "Firefox ESR",
       "not ie < 11"
     ]
+  },
+  "devDependencies": {
+    "i18next-scanner": "^2.11.0"
   }
 }

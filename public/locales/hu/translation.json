@@ -3,7 +3,8 @@
     "newKey": "Ennek az a fordítása hogy valami asdasd asd asd asd asd asd asd asd asd asd asd asd asd asd asd asd  rfgfgfg",
     "description": {
         "part1": "Ez még egy magyar ezt megváltoztatom. To get started, edit <1>src/App.js</1> and save to reload.",
-        "part2": "Switch language between english and german using buttons above."
+        "part2": "Switch language between english and german using buttons above.",
+        "part3": ""
     },
     "veryNewKey": "Ez egy új kulcs lesz haver"
 }

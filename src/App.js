@@ -36,11 +36,13 @@ function Page() {
         <Welcome />
         <button onClick={() => changeLanguage('de')}>de</button>
         <button onClick={() => changeLanguage('en')}>en</button>
+        <button onClick={() => changeLanguage('hu')}>hu</button>
       </div>
       <div className="App-intro">
         <MyComponent />
       </div>
       <div>{t('description.part2')}</div>
+      <div>{t('description.part3')}</div>
     </div>
   );
 }

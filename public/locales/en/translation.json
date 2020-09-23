@@ -2,7 +2,8 @@
     "title": "Welcome to react using react-i18next.",
     "description": {
         "part1": "Angol módosítás To get started, edit <1>src/App.js</1> and save to reload.",
-        "part2": "Switch language between english and german using buttons above."
+        "part2": "Switch language between english and german using buttons above.",
+        "part3": ""
     },
     "newKey": "Ez meg így van angolul.—––‘”“… "
 }
