@@ -26,15 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ebf2063-c364-40b2-8f22-67808ba72089" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/i18next-scanner.config.engine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/de/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/de/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/en/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/en/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/locales/hu/translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/locales/hu/translation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/i18n.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/locales/en/anotherfile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/locales/hu/anotherfile.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,6 +160,14 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="2517" height="274" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1600855839516" />
+    <state x="248" y="86" key="MergeDialog" timestamp="1601557367542">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="248" y="86" key="MergeDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1601557367542" />
+    <state x="918" y="281" key="MultipleFileMergeDialog" timestamp="1601557367579">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="918" y="281" key="MultipleFileMergeDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1601557367579" />
     <state x="781" y="165" key="SettingsEditor" timestamp="1600779648821">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -175,5 +176,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="872" y="253" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1600779719483" />
+    <state x="1097" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601557337173">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1097" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1040@0.0.2560.1040" timestamp="1601557337173" />
   </component>
 </project>
